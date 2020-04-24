@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ballscore</string>
+    <string name="TeamA">TeamA</string>
+    <string name="TeamB">TeamB</string>
+    <string name="Score_a">0</string>
+    <string name="Score_b">0</string>
+    <string name="buttom_1">+1</string>
+    <string name="button_2">+2</string>
+    <string name="button_3">+3</string>
+    <string name="undo_button">ubdo</string>
+    <string name="reset_button">reset</string>
+</resources>
